@@ -1,4 +1,4 @@
 # Excel-End-to-End-dashboard
 Super Store Sales Dashboard
 
-[! Super Store Sales Dashboard](https://github.com/mrkhanarbaz098765-svg/Excel-End-to-End-dashboard/blob/3e5a696196fdefa0ba97c936470afb728f4e2ae8/Sales%20Dashboard%20Image.jpg)
+<img src="https://github.com/mrkhanarbaz098765-svg/Excel-End-to-End-dashboard/blob/b303fdaad4c08a9a06366d9d6157461f5ebf52aa/Sales%20Dashboard%20Image.jpg" alt="Image Description" width="600">
