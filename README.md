@@ -1,20 +1,20 @@
-```markdown id="k8v4qm"
+```markdown
 # 📊 Super Store Sales Dashboard
 
 ## 📌 Overview
-An interactive sales dashboard built using the Super Store dataset to analyze sales performance, transactions, customer segments, and regional trends for better business insights.
+This project is an interactive sales dashboard created using the Super Store dataset. The dashboard helps analyze sales performance, transactions, customer segments, and regional trends to generate meaningful business insights.
 
 ---
 
 ## 🚀 Features
 - Total Sales & Transactions Analysis
 - Monthly Quantity Ordered Trend
-- Region-wise Transactions
+- Region-wise Performance Analysis
 - Ship Mode Sales Distribution
 - Top 5 Cities Sales Analysis
 - Category-wise Transactions
 - Consumer Segment Insights
-- Interactive Filters & KPI Cards
+- Interactive KPI Dashboard
 
 ---
 
@@ -30,18 +30,21 @@ An interactive sales dashboard built using the Super Store dataset to analyze sa
 ## 📈 Key Insights
 - 💰 Total Sales: **58,20,182**
 - 📦 Total Quantity: **25,123**
-- 🔄 Transactions: **9,994**
-- 🏙️ West Region recorded highest transactions
-- 🛒 Consumer segment generated highest quantity orders
+- 🔄 Total Transactions: **9,994**
+- 🏙️ West Region recorded the highest transactions
+- 🛒 Consumer Segment generated the highest orders
 
 ---
 
-## 🎯 Learning Outcome
-Improved skills in:
-- Data Analytics
+## 🎯 Learning Outcomes
+- Data Analysis
 - Dashboard Development
 - KPI Reporting
 - Business Intelligence
 - Data Storytelling
 
-<img width="1272" height="578" alt="image" src="https://github.com/user-attachments/assets/b3df0c3c-03ad-4d50-9744-13f9325c7a1a" />
+---
+
+## 👨‍💻 Author
+**Arbaz Khan**
+```
