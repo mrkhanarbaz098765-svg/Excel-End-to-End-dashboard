@@ -43,3 +43,5 @@ Improved skills in:
 - KPI Reporting
 - Business Intelligence
 - Data Storytelling
+
+<img width="1272" height="578" alt="image" src="https://github.com/user-attachments/assets/b3df0c3c-03ad-4d50-9744-13f9325c7a1a" />
