@@ -1,8 +1,8 @@
-```markdown id="x7m4ka"
+```markdown id="k8v4qm"
 # 📊 Super Store Sales Dashboard
 
 ## 📌 Overview
-An interactive sales dashboard built using the **Super Store Excel Dataset** to analyze sales performance, transactions, customer segments, and regional trends for better business insights.
+An interactive sales dashboard built using the Super Store dataset to analyze sales performance, transactions, customer segments, and regional trends for better business insights.
 
 ---
 
@@ -27,22 +27,12 @@ An interactive sales dashboard built using the **Super Store Excel Dataset** to 
 
 ---
 
-## 📂 Dataset Used
-- Super Store Sales Excel Dataset
-
----
-
 ## 📈 Key Insights
 - 💰 Total Sales: **58,20,182**
 - 📦 Total Quantity: **25,123**
 - 🔄 Transactions: **9,994**
 - 🏙️ West Region recorded highest transactions
 - 🛒 Consumer segment generated highest quantity orders
-
----
-
-## 📷 Dashboard Preview
-![Dashboard](dashboard-image.png)
 
 ---
 
@@ -53,7 +43,5 @@ Improved skills in:
 - KPI Reporting
 - Business Intelligence
 - Data Storytelling
-```
-
 
 <img src="https://github.com/mrkhanarbaz098765-svg/Excel-End-to-End-dashboard/blob/b303fdaad4c08a9a06366d9d6157461f5ebf52aa/Sales%20Dashboard%20Image.jpg" alt="Image Description" width="600">
