@@ -1,16 +1,8 @@
-```markdown id="q7n4xz"
+```markdown
 # 📊 Super Store Sales Dashboard
 
 ## 📌 Overview
 This project is an interactive sales dashboard created using the Super Store dataset. The dashboard helps analyze sales performance, transactions, customer segments, and regional trends to generate meaningful business insights.
-
----
-
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="Sales Dashboard Image.jpg" alt="Super Store Sales Dashboard" width="100%">
-</p>
 
 ---
 
